@@ -3,10 +3,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on e-commerce project 
-- 🌱 I’m currently learning JavaScript and React 
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Open Source 
-- 🤔 I’m looking for help with JavaScript 
+- 🤔 I’m looking for help with Python 
 - 💬 Ask me about  Anything 
 - 📫 How to reach me: [taifulsust@gmail.com]
 - 😄 Pronouns: He/Him 
