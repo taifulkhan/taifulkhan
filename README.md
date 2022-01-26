@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on open source projects 
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Open Source 
 - 🤔 I’m looking for help with Python 
